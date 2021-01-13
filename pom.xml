@@ -88,3 +88,8 @@
 	
 
 </project>
+<!-- 
+terminal -> pasta do projeto
+heroku login
+mvn clean heroku:deploy-war
+ -->
